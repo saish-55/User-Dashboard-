@@ -1,0 +1,22 @@
+.home-dark-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.home-dark-body {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 1289px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius2);
+  justify-content: center;
+}

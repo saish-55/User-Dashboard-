@@ -1,0 +1,370 @@
+.loginside-navbar-dark-side-navbar {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 200px;
+  height: 100%;
+  display: flex;
+  z-index: 200;
+  position: fixed;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-gray-black);
+}
+.loginside-navbar-dark-navlink {
+  display: contents;
+}
+.loginside-navbar-dark-l-o-g-o {
+  top: var(--dl-space-space-unit);
+  left: 0px;
+  right: 0px;
+  width: 120px;
+  height: 100px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  justify-content: center;
+  text-decoration: none;
+}
+.loginside-navbar-dark-image {
+  top: -49px;
+  left: -26px;
+  width: 177px;
+  height: 221px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+}
+.loginside-navbar-dark-navlink1 {
+  display: contents;
+}
+.loginside-navbar-dark-dashboard {
+  top: 140px;
+  width: 90%;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  box-shadow: 0px 2px 5px 0px #808080;
+  transition: 0.3s;
+  align-items: flex-start;
+  border-radius: 0px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.loginside-navbar-dark-dashboard:hover {
+  background-color: #484848;
+}
+.loginside-navbar-dark-icon {
+  top: 0px;
+  fill: var(--dl-color-gray-white);
+  left: 15px;
+  width: 24px;
+  bottom: 0px;
+  height: 20px;
+  margin: auto;
+  position: absolute;
+}
+.loginside-navbar-dark-button {
+  top: 31%;
+  left: 30%;
+  color: rgb(255, 255, 255);
+  padding: 0px;
+  position: absolute;
+  border-width: 0px;
+  background-color: transparent;
+}
+.loginside-navbar-dark-navlink2 {
+  display: contents;
+}
+.loginside-navbar-dark-user {
+  top: 210px;
+  width: 100%;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  box-shadow: 0px 2px 5px 0px #000000;
+  transition: 0.3s;
+  align-items: center;
+  border-color: var(--dl-color-gray-white);
+  border-width: 1px;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+  background-image: linear-gradient(270deg, rgba(189, 195, 199, 0.27) 0.00%,rgba(44, 62, 80, 0) 100.00%);
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 8px;
+  border-bottom-width: 0px;
+}
+.loginside-navbar-dark-user:hover {
+  background-color: #484848;
+}
+.loginside-navbar-dark-button1 {
+  top: 31%;
+  left: 36%;
+  color: rgb(255, 255, 255);
+  width: auto;
+  padding: 0px;
+  position: absolute;
+  text-align: center;
+  border-width: 0px;
+  background-color: transparent;
+}
+.loginside-navbar-dark-icon02 {
+  top: 0px;
+  fill: var(--dl-color-gray-white);
+  left: var(--dl-space-space-oneandhalfunits);
+  width: 24px;
+  bottom: 0px;
+  height: 20px;
+  margin: auto;
+  position: absolute;
+}
+.loginside-navbar-dark-projects {
+  top: 280px;
+  width: 90%;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  box-shadow: 0px 2px 5px 0px #808080;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.loginside-navbar-dark-projects:hover {
+  background-color: #484848;
+}
+.loginside-navbar-dark-button2 {
+  top: 31%;
+  left: 33%;
+  color: var(--dl-color-gray-white);
+  width: auto;
+  padding: 0px;
+  position: absolute;
+  text-align: center;
+  border-width: 0px;
+  background-color: transparent;
+}
+.loginside-navbar-dark-icon04 {
+  top: 0px;
+  fill: var(--dl-color-gray-white);
+  left: 15px;
+  width: 24px;
+  bottom: 0px;
+  height: 20px;
+  margin: auto;
+  position: absolute;
+}
+.loginside-navbar-dark-message {
+  top: 350px;
+  width: 90%;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  box-shadow: 0px 2px 5px 0px #808080;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.loginside-navbar-dark-message:hover {
+  background-color: #484848;
+}
+.loginside-navbar-dark-button3 {
+  top: 31%;
+  left: 33%;
+  color: var(--dl-color-gray-white);
+  width: auto;
+  padding: 0px;
+  position: absolute;
+  text-align: center;
+  border-width: 0px;
+  background-color: transparent;
+}
+.loginside-navbar-dark-icon06 {
+  top: 0px;
+  fill: var(--dl-color-gray-white);
+  left: 15px;
+  width: 24px;
+  bottom: 0px;
+  height: 20px;
+  margin: auto;
+  position: absolute;
+}
+.loginside-navbar-dark-events {
+  top: 420px;
+  width: 90%;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  box-shadow: 0px 2px 5px 0px #808080;
+  transition: 0.3s;
+  align-items: center;
+  padding-left: 0px;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.loginside-navbar-dark-events:hover {
+  background-color: #484848;
+}
+.loginside-navbar-dark-button4 {
+  top: 31%;
+  left: 33%;
+  color: var(--dl-color-gray-white);
+  width: auto;
+  padding: 0px;
+  position: absolute;
+  text-align: center;
+  border-width: 0px;
+  background-color: transparent;
+}
+.loginside-navbar-dark-icon08 {
+  top: 0px;
+  fill: var(--dl-color-gray-white);
+  left: 15px;
+  width: 24px;
+  bottom: 0px;
+  height: 20px;
+  margin: auto;
+  position: absolute;
+}
+.loginside-navbar-dark-reports {
+  top: 490px;
+  width: 90%;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  box-shadow: 0px 2px 5px 0px #808080;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.loginside-navbar-dark-reports:hover {
+  background-color: #484848;
+}
+.loginside-navbar-dark-button5 {
+  top: 31%;
+  left: 33%;
+  color: var(--dl-color-gray-white);
+  width: auto;
+  padding: 0px;
+  position: absolute;
+  text-align: center;
+  border-width: 0px;
+  background-color: transparent;
+}
+.loginside-navbar-dark-icon10 {
+  top: 0px;
+  fill: var(--dl-color-gray-white);
+  left: 15px;
+  width: 24px;
+  bottom: 0px;
+  height: 20px;
+  margin: auto;
+  position: absolute;
+}
+.loginside-navbar-dark-payments {
+  top: 560px;
+  width: 90%;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  box-shadow: 0px 2px 5px 0px #808080;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.loginside-navbar-dark-payments:hover {
+  background-color: #484848;
+}
+.loginside-navbar-dark-button6 {
+  top: 31%;
+  left: 33%;
+  color: var(--dl-color-gray-white);
+  width: auto;
+  padding: 0px;
+  position: absolute;
+  text-align: center;
+  border-width: 0px;
+  background-color: transparent;
+}
+.loginside-navbar-dark-icon15 {
+  top: 0px;
+  fill: var(--dl-color-gray-white);
+  left: 17px;
+  width: 20px;
+  bottom: 0px;
+  height: 24px;
+  margin: auto;
+  position: absolute;
+}
+.loginside-navbar-dark-settings {
+  top: 630px;
+  width: 90%;
+  height: var(--dl-size-size-small);
+  margin: auto;
+  display: flex;
+  padding: 0px;
+  position: absolute;
+  box-shadow: 0px 2px 5px 0px #808080;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.loginside-navbar-dark-settings:hover {
+  background-color: #484848;
+}
+.loginside-navbar-dark-button7 {
+  top: 31%;
+  left: 33%;
+  color: var(--dl-color-gray-white);
+  width: auto;
+  padding: 0px;
+  position: absolute;
+  text-align: center;
+  border-width: 0px;
+  background-color: transparent;
+}
+.loginside-navbar-dark-icon17 {
+  top: 0px;
+  fill: var(--dl-color-gray-white);
+  left: 15px;
+  width: 24px;
+  bottom: 0px;
+  height: 20px;
+  margin: auto;
+  position: absolute;
+}

@@ -1,0 +1,9 @@
+.login-dark-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(180deg, rgb(252, 252, 253) 2.00%,rgb(7, 11, 15) 99.00%);
+}
